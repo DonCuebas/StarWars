@@ -1,0 +1,11 @@
+Episode            Movie Name                       Release Year
+ ---------------------------------------------------------------
+I                  The Phantom Menace               1999
+II                 Attack of the Clones             2002
+III                Revenge of the Sith              2005
+IV                 A New Hope                       1977
+V                  The Empire Strikes Back          1980
+VI                 Return of the Jedi               1983
+VII                The Force Awakens                2015
+VIII               The Last Jedi                    2017
+IX                 The Rise of Skywalker            2019
